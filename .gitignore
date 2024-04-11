@@ -1,0 +1,11 @@
+.pg_pass
+db.sqlite3
+.env
+.coverage
+__pycache__/
+.idea/
+.idea/*
+.vscode/
+logs/*
+logs/
+venv/
