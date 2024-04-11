@@ -12,4 +12,3 @@ class RoomView(generic.TemplateView):
         context = super().get_context_data(**kwargs)
         context["room_name"] = self.kwargs["room_name"]
         return context
-    
